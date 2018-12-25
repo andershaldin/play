@@ -175,6 +175,7 @@ img::-moz-selection {
   }
 }
 
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
@@ -317,3 +318,25 @@ header.masthead p {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.callout {
+  padding: 0rem 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/portfolio/thumbnails/test.png");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/portfolio/thumbnails/test.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-origin: content-box;
+}
+
+
+.callout h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  display: block;
+  max-width: 30rem;
+  color: white
+  }  
+   
