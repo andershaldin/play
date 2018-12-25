@@ -323,20 +323,25 @@ header.masthead p {
   padding: 0rem 0;
   padding-right: 15px;
   padding-left: 15px;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/portfolio/thumbnails/test.png");
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/portfolio/thumbnails/test.png");
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255s, 255, 0.1))), url("../img/portfolio/thumbnails/SpaceMaze.png");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/portfolio/thumbnails/SpaceMaze.png");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100%;
   background-origin: content-box;
 }
 
 
 .callout h2 {
-  font-size: 3.5rem;
-  font-weight: 700;
+  font-size: 3rem;
+  font-weight: 600;
   display: block;
   max-width: 30rem;
   color: white
   }  
    
+.callout p {
+  display: block;
+  max-width: 60rem;
+  color: white
+  }  
