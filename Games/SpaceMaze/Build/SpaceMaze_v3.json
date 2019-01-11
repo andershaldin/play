@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "LyndaLevelDesign",
-"dataUrl": "SpaceMaze_v2.data.unityweb",
-"wasmCodeUrl": "SpaceMaze_v2.wasm.code.unityweb",
-"wasmFrameworkUrl": "SpaceMaze_v2.wasm.framework.unityweb",
+"dataUrl": "SpaceMaze_v3.data.unityweb",
+"wasmCodeUrl": "SpaceMaze_v3.wasm.code.unityweb",
+"wasmFrameworkUrl": "SpaceMaze_v3.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
